@@ -1,0 +1,37 @@
+{
+  "list": [
+    {
+      "dt": 1526493600,
+      "main": {
+        "temp": 299.42,
+        "temp_min": 296.77,
+        "temp_max": 299.42,
+        "pressure": 984.95,
+        "sea_level": 1025.6,
+        "grnd_level": 984.95,
+        "humidity": 82,
+        "temp_kf": 2.65
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "clouds": {
+        "all": 92
+      },
+      "wind": {
+        "speed": 1.51,
+        "deg": 212
+      },
+      "rain": {},
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2018-05-16 18:00:00"
+    }
+  ]
+}
